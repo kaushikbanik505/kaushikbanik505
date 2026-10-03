@@ -23,6 +23,6 @@ I'm Kaushik Banik, a full-stack developer and final-year B.Tech Computer Science
 ![](https://github.com/kaushikbanik505/train-mitra)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kaushikbanik505&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://github.com/kaushikbanik505/train-mitra)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
