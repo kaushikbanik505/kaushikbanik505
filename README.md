@@ -21,7 +21,7 @@ I'm Kaushik Banik, a full-stack developer and final-year B.Tech Computer Science
 
 ### 🔝 Top Contributed Repo
 
-[![TrainMitra Repo Card](https://vercel.am)](https://github.com/kaushikbanik505/train-mitra)
+[![TrainMitra Repo Card]()](https://github.com/kaushikbanik505/train-mitra)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
