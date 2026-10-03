@@ -1,6 +1,7 @@
-# 💫 About Me:
+# 💫 About Me: 
 I'm Kaushik Banik, a full-stack developer and final-year B.Tech Computer Science student at NIT Agartala (CGPA: 8.18), specializing in the MERN stack. I build production-grade, real-time platforms — from NexaTalk, a full-stack communication app with live chat, video calling, and an AI language assistant powered by Google Gemini, to TrainMitra, a crowdsourced train-tracking platform serving data across 5,000+ trains and 700+ stations with real-time updates via Socket.io.<br><br>I recently completed a Software Development Engineer internship at the National Informatics Centre (NIC), where I built UI components and role-based dashboards for a government VAT Officer portal used by 50+ users.<br><br>Beyond development, I'm an active competitive programmer with 1000+ DSA problems solved across Codeforces, LeetCode, and GeeksforGeeks, and I've competed in events like Flipkart Grid 6.0. I'm now looking for full-time software engineering opportunities where I can build impactful, scalable products.
 
+**[📄 Resume](https://drive.google.com/file/d/1Xf8dGKa8PJ5KdIZbJmRTGruFbREPWqcD/view?usp=sharing)**
 
 
 ## 🌐 Socials:
