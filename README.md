@@ -4,10 +4,9 @@ I'm Kaushik Banik, a full-stack developer and final-year B.Tech Computer Science
 
 
 ## 🌐 Socials:
- 🌐 Socials:
+ 
 ---
 
-[![Resume](https://shields.io)](https://drive.google.com/file/d/1Xf8dGKa8PJ5KdIZbJmRTGruFbREPWqcD/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-banik777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usergithub505@gmail.com) 
 
 # 💻 Tech Stack:
