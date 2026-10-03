@@ -25,13 +25,13 @@ I'm Kaushik Banik, a full-stack developer and final-year B.Tech Computer Science
 
 ### 🔝 Top Contributed Repo
 
-[1. TrainMitra Repo Card](https://github.com/kaushikbanik505/train-mitra)
+[1. TrainMitra Repo Card 🚆](https://github.com/kaushikbanik505/train-mitra)
 
-[2. NexaTalk Repo Card](https://github.com/kaushikbanik505/nexatalk)
+[2. NexaTalk Repo Card 🤳](https://github.com/kaushikbanik505/nexatalk)
 
-[3. JAVA-CODE Repo Card](https://github.com/kaushikbanik505/java)
+[3. JAVA-CODE Repo Card 💻](https://github.com/kaushikbanik505/java)
 
-[4. LEETCODE-SOLUTIONS ](https://github.com/kaushikbanik505/leetcode-solution)
+[4. LEETCODE-SOLUTIONS 🧑‍💻](https://github.com/kaushikbanik505/leetcode-solution)
 
 
 
